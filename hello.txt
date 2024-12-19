@@ -2,3 +2,4 @@ git demo 111
 git demo 222
 git demo master
 git demo hot-fix
+git pull test
